@@ -62,7 +62,7 @@ SAMPLE_SUBDIR = sound/direct_sound_samples
 MID_SUBDIR = sound/songs/midi
 MAP_LAYOUT_SUBDIR = graphics/map/layout
 
-ROM          := fireemblem8.gba
+ROM          := FireEmblem8Ultra.gba
 ELF          := $(ROM:.gba=.elf)
 MAP          := $(ROM:.gba=.map)
 LDSCRIPT     := ldscript.txt

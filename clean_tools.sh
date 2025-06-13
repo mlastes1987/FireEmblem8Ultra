@@ -1,2 +1,2 @@
 #!/bin/sh
-make clean -f make_tools.mk
+make clean -f ../make_tools.mk
